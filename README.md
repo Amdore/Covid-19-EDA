@@ -11,8 +11,12 @@
 ```import matplotlib```
 ```import matplotlib.pyplot as plt```
  
-# Exemplo
- ![](https://static.dw.com/image/59131461_605.jpg)
+# Exemplos
+ ![](exemplo/Histograma.png)
+ 
+ ![](exemplo/Heatmap.png)
+ 
+ ![](exemplo/Descrição_de_Dados.png)
 
 Link do arquivo do Kaggle:https://www.kaggle.com/datasets/imdevskp/corona-virus-report
 
