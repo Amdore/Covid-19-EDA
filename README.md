@@ -16,7 +16,9 @@
  
  ![](exemplo/Heatmap.png)
  
- ![](exemplo/Descrição_de_Dados.png)
+ ![](exemplo/descricao_de_dados.png)
+ 
+ 
 
 Link do arquivo do Kaggle:https://www.kaggle.com/datasets/imdevskp/corona-virus-report
 
