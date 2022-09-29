@@ -20,12 +20,20 @@
 ```import matplotlib.pyplot as plt```
  
 # Exemplos
+
+O gráfico abaixo monstra a curva de crescimento em relação ao tempo do número de pacientes com covid que faleceram 
+
  ![](analysis/Histograma.png)
  
+Gráfico representando a correlação entre as variáveis, que identificam tendências em variação das variáveis
+
  ![](analysis/Heatmap.png)
  
+Tabela a qual indica valores importantes como média, desvio padrão, máximo, mínimo e os quartis das variáveis 
+
  ![](analysis/descricao_de_dados.png)
  
+# Conclusão
  
 # Fontes
 
