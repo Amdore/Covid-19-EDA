@@ -12,11 +12,11 @@
 ```import matplotlib.pyplot as plt```
  
 # Exemplos
- ![](exemplo/Histograma.png)
+ ![](analysis/Histograma.png)
  
- ![](exemplo/Heatmap.png)
+ ![](analysis/Heatmap.png)
  
- ![](exemplo/descricao_de_dados.png)
+ ![](analysis/descricao_de_dados.png)
  
  
 # Fontes
